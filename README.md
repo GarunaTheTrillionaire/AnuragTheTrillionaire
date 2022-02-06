@@ -1,7 +1,7 @@
 [![MasterHead](https://c.tenor.com/y0SIaspW0E8AAAAC/cyberhornet-nest.gif)]
 <h1 align="center">Hi 👋, I'm Anurag</h1>
 <h3 align="center">A passionate developer and programmer from 💖India💖</h3>
-<img  align="right" width="400" src="http://curiouspost.com/wp-content/uploads/2017/01/554804026_1280x720.jpg" alt="creator of linux">
+<img  align="right" width="400" src="img/newfigmapic.png" alt="creator of linux">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anurag21blockdev&label=Profile%20views&color=0e75b6&style=flat" alt="anurag21blockdev" /> </p>
 
