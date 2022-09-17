@@ -1,7 +1,7 @@
 [![MasterHead](https://c.tenor.com/y0SIaspW0E8AAAAC/cyberhornet-nest.gif)]
 <h1 align="center">Hi 👋, I'm Anurag</h1>
 <h3 align="center">A passionate developer and programmer from 💖India💖</h3>
-<!-- <img  align="right" width="400" src="https://anuragthetrillionaire.github.io/Anurag21BlockDev/img/newfigmapic.png" alt="creator of linux"> -->
+<!-- <img  align="right" width="400" src="https://anuragthetrillionaire.github.io/basic-html-css/img/newfigmapic.png" alt="creator of linux"> -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anurag21blockdev&label=Profile%20views&color=0e75b6&style=flat" alt="anurag21blockdev" /> </p>
 
@@ -12,13 +12,13 @@
 
 - 🌱 I’m currently learning **Blockchain development, different programming language, Javascript, NodeJs and many things**
 
-- 👨‍💻 All of my projects are available at [https://anuragthetrillionaire.github.io/Anurag21BlockDev/](https://anuragthetrillionaire.github.io/Anurag21BlockDev/)
+- 👨‍💻 All of my projects are available at [https://anuragthetrillionaire.github.io/basic-html-css/](https://anuragthetrillionaire.github.io/basic-html-css/)
 
-- 📝 I regularly write articles on [https://anuragthetrillionaire.github.io/Anurag21BlockDev/](https://anuragthetrillionaire.github.io/Anurag21BlockDev/)
+- 📝 I regularly write articles on [https://anuragthetrillionaire.github.io/Anurag21BlockDev/](https://anuragthetrillionaire.github.io/basic-html-css/)
 
 - 📫 How to reach me **anuragyadav9076@gmail.com**
 
-- 📄 Know about my experiences [https://anuragthetrillionaire.github.io/Anurag21BlockDev/](https://anuragthetrillionaire.github.io/Anurag21BlockDev/)
+- 📄 Know about my experiences [https://anuragthetrillionaire.github.io/Anurag21BlockDev/](https://anuragthetrillionaire.github.io/basic-html-css/)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
