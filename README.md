@@ -3,7 +3,7 @@
 <h3 align="center">A passionate developer and programmer from 💖India💖</h3>
 <!-- <img  align="right" width="400" src="https://anuragthetrillionaire.github.io/basic-html-css/img/newfigmapic.png" alt="creator of linux"> -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anurag21blockdev&label=Profile%20views&color=0e75b6&style=flat" alt="anurag21blockdev" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=anurag21blockdev&label=Profile%20views&color=0e75b6&style=flat" alt="" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anurag21blockdev" alt="anurag21blockdev" /></a> </p>
 
