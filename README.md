@@ -14,11 +14,11 @@
 
 - 👨‍💻 All of my projects are available at [https://anuragthetrillionaire.github.io/basic-html-css/](https://anuragthetrillionaire.github.io/basic-html-css/)
 
-- 📝 I regularly write articles on [https://anuragthetrillionaire.github.io/Anurag21BlockDev/](https://anuragthetrillionaire.github.io/basic-html-css/)
+- 📝 I regularly write articles on [https://anuragthetrillionaire.github.io/basic-html-css/](https://anuragthetrillionaire.github.io/basic-html-css/)
 
 - 📫 How to reach me **anuragyadav9076@gmail.com**
 
-- 📄 Know about my experiences [https://anuragthetrillionaire.github.io/Anurag21BlockDev/](https://anuragthetrillionaire.github.io/basic-html-css/)
+- 📄 Know about my experiences [https://anuragthetrillionaire.github.io/basic-html-css/](https://anuragthetrillionaire.github.io/basic-html-css/)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
