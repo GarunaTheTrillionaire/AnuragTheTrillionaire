@@ -9,7 +9,6 @@
 
 <p align="left"> <a href="https://twitter.com/anuragy45120195" target="blank"><img src="https://img.shields.io/twitter/follow/anuragy45120195?logo=twitter&style=for-the-badge" alt="anuragy45120195" /></a> </p>
 
-- 🔭 I’m currently working on [CV and Blockchain educational website](https://anuragthetrillionaire.github.io/Anurag21BlockDev/)
 
 - 🌱 I’m currently learning **Blockchain development, different programming language, Javascript, NodeJs and many things**
 
