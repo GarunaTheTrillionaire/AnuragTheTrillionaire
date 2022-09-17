@@ -12,14 +12,11 @@
 
 - 🌱 I’m currently learning **Blockchain development, different programming language, Javascript, NodeJs and many things**
 
-- 👨‍💻 All of my projects are available at [https://anuragthetrillionaire.github.io/basic-html-css/](https://anuragthetrillionaire.github.io/basic-html-css/)
 
-- 📝 I regularly write articles on [https://anuragthetrillionaire.github.io/basic-html-css/](https://anuragthetrillionaire.github.io/basic-html-css/)
 
 - 📫 How to reach me **anuragyadav9076@gmail.com**
 
-- 📄 Know about my experiences [https://anuragthetrillionaire.github.io/basic-html-css/](https://anuragthetrillionaire.github.io/basic-html-css/)
-
+- 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
